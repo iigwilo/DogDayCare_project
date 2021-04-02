@@ -1,13 +1,12 @@
 # DogDayCare_project
 DogDayCare_project is written in python to calculate the amount of dog food needed for next month for a dog shelter.
 
-## Prerequisites/assumption
-- This dog food calculation is based on given estimated dog food consumption based on dog size.
-   Sizes of dogs and food needs:
+## Prerequisites/Assumption
+- The dog food calculation is based on dog food consumption by dog size as follows;
     - Small - 10lbs.
     - Medium - 20lbs.
     - Large - 30lbs.
- - This given estimation is then hard coded in the dog next month food calculation function
+
  - Date, calender season, and dog shelter food demand trend are not factored into the dog food calculation
  - Dog shelter capacity of 30 dogs is not factored into the calculation
  - The calculated dog food data is not stored for analysis/trends calculations over time
