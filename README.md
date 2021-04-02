@@ -10,7 +10,7 @@ DogDayCare_project is written in python to calculate the amount of dog food need
  - Date, calender season, and dog shelter food demand trend are not factored into the dog food calculation
  - Dog shelter maximum capacity of 30 dogs is not factored into the calculation
  - The calculated dog food data is not stored for analysis and trends over time
- - Actual dog food consumtion data is not stored to be compared with projected dog food calcualted
+ - Actual dog food consumtion data is not stored to be compared with projected dog food calculated
 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dogFood.
