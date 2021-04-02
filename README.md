@@ -21,12 +21,20 @@ pip install dogFood
 ```
 ##Usage
 
-The following is the file structure:
-- dogFood
+Create a folder dir using your terminal
+```bash
+mkdir dogFood
+```
+In the dogFood folder create another folder 
+```bash
+mkdir monthlyDogFood
+```
+Then set up the following file structure with the attach .py files as shown below:
+- dogFood(Folder)
   - test.py
-  - monthlyDogFood
-    __init__.py
-    nextMonthDogFood.py
+  - monthlyDogFood(Folder)
+    - __init__.py
+    - nextMonthDogFood.py
     
 To run dog food calculation for next month execute the following, while in dogFood folder
 ```python
