@@ -1,5 +1,5 @@
 # DogDayCare_project
-DogDayCare_project is a python library to calculate the necessary amount of dog food for next month for a dog shelter based on how many currently dogs and the remaining food from last month.
+DogDayCare_project is written in python to calculate the amount of dog food needed for next month for a dog shelter.
 
 ## Prerequisites/assumption
 - This dog food calculation is based on given estimated dog food consumption based on dog size.
